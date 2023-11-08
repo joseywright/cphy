@@ -1,4 +1,4 @@
-
+#ignore me
 
 <img src="resources/overview.gif" alt="Overview of Methods in Course" width="100%"/>
 
